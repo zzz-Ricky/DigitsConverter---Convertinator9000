@@ -3,6 +3,8 @@
 **Convertinator9000** is a simple Python-QT6 desktop application designed to convert an inputted decimal number to a different base form. This app was developed as a personal tool to assist with calculations in a Digital Circuits course at the University of Calgary.  
 - Last modified on **September 20th, 2023**.
 
+![alt text](https://github.com/zzz-Ricky/DigitsConverter---Convertinator9000/blob/main/images/Screenshot%202024-11-20%20171447.jpg?raw=true)
+
 ---
 
 ## Convertinator9000 Installation Guide
